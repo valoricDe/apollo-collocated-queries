@@ -1,0 +1,17 @@
+{
+  "name": "apollo-collocated-queries",
+  "version": "0.0.1",
+  "description": "Using Fragments in React Components to collocate data requirements",
+  "main": "index.js",
+  "repository": "git@github.com:valoricDe/apollo-collocated-queries.git",
+  "author": "Velten Heyn <dev@valoric.de>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "apollo-client": "^2.6.3",
+    "graphql-anywhere": "^4.2.4",
+    "prettier": "^1.18.2",
+    "react": "^16.8.6",
+    "react-apollo": "^2.5.8"
+  }
+}
